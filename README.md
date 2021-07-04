@@ -15,4 +15,3 @@ sahil757755/sahil757755 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-[ [My Account](https://t.me/SciEncEQuiZ11)]
